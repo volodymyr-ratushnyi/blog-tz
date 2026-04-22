@@ -1,5 +1,5 @@
-import {PostsPage} from "@/views/posts/PostsPage";
+import { PostsPage } from '@/views/posts/PostsPage'
 
 export default function Home() {
-  return <PostsPage/>;
+  return <PostsPage />
 }

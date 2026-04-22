@@ -1,6 +1,7 @@
 ## Getting Started
 
 First, install dependencies:
+
 ```bash
 npm ci
 ```
