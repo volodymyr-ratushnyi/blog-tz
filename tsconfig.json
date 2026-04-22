@@ -19,7 +19,9 @@
       }
     ],
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./src/*"],
+      "@shadcn/*": ["./src/shared/shadcn/*"],
+      "@uishadcn/*": ["./src/shared/shadcn/components/ui/*"]
     }
   },
   "include": [
